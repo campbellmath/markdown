@@ -1,0 +1,5 @@
+# Install
+
+```
+sh dependencies.sh
+```
